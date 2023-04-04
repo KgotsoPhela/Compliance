@@ -1,4 +1,3 @@
 joblib
 scikit-image
 opencv-python
-cv2
